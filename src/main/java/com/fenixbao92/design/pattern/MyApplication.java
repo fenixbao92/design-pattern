@@ -1,4 +1,4 @@
-package com.fenxbao92.design.pattern;
+package com.fenixbao92.design.pattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

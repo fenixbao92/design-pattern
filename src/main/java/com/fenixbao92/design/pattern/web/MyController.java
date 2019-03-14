@@ -1,4 +1,4 @@
-package com.fenxbao92.design.pattern.web;
+package com.fenixbao92.design.pattern.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
