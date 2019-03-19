@@ -1,0 +1,2 @@
+springmvc中一般需要使用vo，其实例化我采用逐层构造，而不像这样提供统一的入口Client。
+client包了一层CompositeEntity又包了一层。
