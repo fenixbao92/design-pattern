@@ -1,4 +1,4 @@
-package com.fenixbao92.design.pattern.patterns.structural.mediator;
+package com.fenixbao92.design.pattern.patterns.behavioral.mediator;
 
 import java.util.Date;
 /**

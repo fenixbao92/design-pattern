@@ -1,6 +1,6 @@
-package com.fenixbao92.design.pattern.patterns.structural.mediator.main;
+package com.fenixbao92.design.pattern.patterns.behavioral.mediator.main;
 
-import com.fenixbao92.design.pattern.patterns.structural.mediator.User;
+import com.fenixbao92.design.pattern.patterns.behavioral.mediator.User;
 
 /**
  * Create by fenixbao92 on 2019/3/14.

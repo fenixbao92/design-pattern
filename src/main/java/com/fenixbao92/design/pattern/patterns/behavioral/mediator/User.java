@@ -1,4 +1,4 @@
-package com.fenixbao92.design.pattern.patterns.structural.mediator;
+package com.fenixbao92.design.pattern.patterns.behavioral.mediator;
 
 /**
  * Create by fenixbao92 on 2019/3/19.
